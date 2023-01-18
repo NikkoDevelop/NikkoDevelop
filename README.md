@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="mailto:w.kostjaog@gmail.com">
+<a href="mailto:nick.max.kovaly@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
@@ -29,8 +29,3 @@
 
 ---
 
-<div align='center'>
-
-![](https://komarev.com/ghpvc/?username=oganesK&label=Profile+Views)
-
-</div>
