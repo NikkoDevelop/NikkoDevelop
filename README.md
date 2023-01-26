@@ -1,7 +1,4 @@
 
-### About Me
-
-
 <div align="center">
 
 <a href="mailto:nick.max.kovaly@gmail.com">
