@@ -1,10 +1,12 @@
+<p align="center"> <a href="https://github.com/NikkoDevelop"><img src="https://github-profile-trophy.vercel.app/?username=NikkoDevelop&row=1&column=7&theme=darkhub&no-frame=true" alt="NikkoDevelop" /></a> </p>
 
-<div align="center">
 
-<a href="mailto:nick.max.kovaly@gmail.com">
-<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://t.me/localzet" target="blank"><img align="center" src="https://www.svgrepo.com/download/343522/telegram-communication-chat-interaction-network-connection.svg" alt="@localzet" height="30" width="40" /></a>
+
+<a href="mailto:nick.max.kovaly@gmail.com"><img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 ### Languages, Tools, and Skills 🛠
 <div align="center">
