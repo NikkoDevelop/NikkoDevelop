@@ -1,11 +1,5 @@
 <div id="header" align="center">
   <img src="https://www.pinclipart.com/picdir/big/563-5630407_developer-png-png-download-computer-scientist-png-clipart.png" width="250"/>
-  <div id="badges">
-    <a href="https://www.youtube.com/channel/UC89Nd5HIhZ1tyIbqk5G_7sg">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=NikkoDevelop&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
